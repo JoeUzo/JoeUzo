@@ -12,10 +12,10 @@ A passionate DevOps Engineer with a strong foundation in Python, cloud infrastru
 <table align="center" border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JoeUzo&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=JoeUzo&show_icons=true&theme=vue-dark" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeUzo&layout=compact&theme=github_dark_dimmed" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeUzo&layout=compact&theme=vue-dark" alt="Top Languages"/>
     </td>
   </tr>
 </table>
