@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joseph Ogbulezie! 👋🏾</h1>
+<h1>Hi, I'm Joseph! 👋🏾</h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Joseph--Ogbulezie-blue)](https://linkedin.com/in/Joseph-Ogbulezie)
 [![Email Badge](https://img.shields.io/badge/Email-joeogbulezie@gmail.com-red)](mailto:joeogbulezie@gmail.com)
