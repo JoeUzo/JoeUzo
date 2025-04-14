@@ -1,6 +1,6 @@
 <h1>Hi, I'm Joseph! 👋🏾</h1>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Joseph--Ogbulezie-blue)](https://linkedin.com/in/Joseph-Ogbulezie)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Joseph--Ogbulezie-blue)](https://www.linkedin.com/in/joseph-ogbulezie-716b99206/)
 [![Email Badge](https://img.shields.io/badge/Email-joeogbulezie@gmail.com-red)](mailto:joeogbulezie@gmail.com)
 
 <p>
