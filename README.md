@@ -4,7 +4,7 @@
 [![Email Badge](https://img.shields.io/badge/Email-joeogbulezie@gmail.com-red)](mailto:joeogbulezie@gmail.com)
 
 <p>
-A passionate DevOps Engineer with a strong foundation in Python, cloud infrastructure (AWS & Azure), and automation. I specialize in building efficient CI/CD pipelines, containerized deployments, and scalable systems using tools like Docker, Kubernetes, Terraform, and Ansible. I thrive on solving complex challenges and continuously optimizing workflows to boost performance and reliability.
+Passionate about technology and problem-solving, with a strong foundation in Python, cloud infrastructure (AWS and Azure), and automation. Focused on building efficient CI/CD pipelines, containerized deployments, and scalable systems using tools like Docker, Kubernetes, Terraform, and Ansible. Enjoys tackling complex challenges and continuously improving workflows for better performance and reliability.
 </p>
 
 <strong>Joseph's GitHub Stats:</strong>
